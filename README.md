@@ -1,5 +1,5 @@
 # FromZeroToLearnPython
-极客时间课程-从零开始学习Python
+极客时间课程-从零开始学习Python<br/>
  ![](https://img.shields.io/badge/Python-3.7-brightgreen.svg)    ![](<https://img.shields.io/badge/build-pass-brightgreen.svg>)
 ## 目录
 > 源代码全部存放于src目录下
