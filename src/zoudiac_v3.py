@@ -9,13 +9,15 @@ zodiac_days = ((1, 20), (2, 19), (3, 21), (4, 21), (5, 21), (6, 22), (7, 23),
 chinese_zodiac = "猴鸡狗猪鼠牛虎兔龙蛇马羊"
 
 # 初始化两个统计数据的字典
-cz_num = {}
-for i in chinese_zodiac:
-    cz_num[i] = 0
-zodiac_num = {}
-for i in zodiac_name:
-    zodiac_num[i] = 0
+# cz_num = {}
+# for i in chinese_zodiac:
+#     cz_num[i] = 0
+# zodiac_num = {}
+# for i in zodiac_name:
+#     zodiac_num[i] = 0
 
+cz_num = {i:0 for i in chinese_zodiac}
+zodiac_num = {i:0 for i in zodiac_name}
 
 while True:
     # 用户输入的年份
