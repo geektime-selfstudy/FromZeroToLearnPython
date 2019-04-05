@@ -19,3 +19,14 @@ for i in range(len(zodiac_days)):
     elif int(month_input) == 12 and int(date_input) >= 23:
         print(zodiac_name[0])
         break
+
+# 使用while循环来进行星座的判断
+month_input = int(month_input)
+date_input = int(date_input)
+n = 0
+while zodiac_days[n] < (month_input, date_input):
+    if month_input == 12 and date_input >= 23:
+        break
+    n += 1
+print(zodiac_name[n])
+    
