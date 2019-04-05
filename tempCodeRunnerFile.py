@@ -1,0 +1,1 @@
+print(year % 12)
