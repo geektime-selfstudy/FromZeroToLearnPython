@@ -1,18 +1,9 @@
 # FromZeroToLearnPython
-极客时间课程-从零开始学习Python<br/>
+极客时间课程-从零开始学习Python<br/><br/>
  ![](https://img.shields.io/badge/Python-3.7-brightgreen.svg)    ![](<https://img.shields.io/badge/build-pass-brightgreen.svg>)
 ## 目录
 > 源代码全部存放于src目录下
-<table>
-    <th>
-        <tr>
-            <td>序号</td>
-            <td>文件名</td>
-            <td>对应的视频</td>
-            <td>主要讲解的内容</td>
-        </tr>
-    </th>
-    <tbody>
+<table><th><tr><td>序号</td><td>文件名</td><td>对应的视频</td><td>主要讲解的内容</td></tr></th><tbody>
         <tr><td>18</td><td>test_for.py</td><td>18</td><td>字典推导式与列表推导式</td></tr>
         <tr><td>19</td><td>file_op.py</td><td>19</td><td>文件的内建函数</td></tr>
         <tr><td>20</td><td>file_op.py</td><td>20</td><td>文件的常用操作，读取全部内容，读取一行内容，文件指针的操作等</td></tr>
@@ -32,9 +23,9 @@
         <tr><td>34</td><td>func_test2.py</td><td>28</td><td>闭包的定义，闭包函数用于计数器</td></tr>
         <tr><td>35</td><td>func_test3.py</td><td>29</td><td>闭包函数的使用：求解方程</td></tr>
         <tr><td>36</td><td>func_test4.py</td><td>30</td><td>函数装饰器的定义</td></tr>
+        <tr><td>37</td><td>class_test.py</td><td>35</td><td>类与实例</td></tr>
+        <tr><td>38</td><td>class_test.py</td><td>36</td><td>如何增加类的属性和方法</td></tr>
+        <tr><td>39</td><td>class_test_v2.py</td><td>37</td><td>类的继承</td></tr>
 
-
-
-
-    </tbody>
+</tbody>
 </table>
