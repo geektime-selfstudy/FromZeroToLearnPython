@@ -29,6 +29,10 @@
         <tr><td>31</td><td>random_test.py</td><td>48</td><td>讲解Python中的math库和random库</td></tr>        
         <tr><td>32</td><td>直接在命令行操作</td><td>49</td><td>Mac或Linux使用命令对文件或者文件夹进行操作</td></tr>
         <tr><td>33</td><td>dir_test.py</td><td>50</td><td>文件夹操作库os.path以及pathlib库</td></tr>
+        <tr><td>34</td><td>func_test2.py</td><td>28</td><td>闭包的定义，闭包函数用于计数器</td></tr>
+        <tr><td>35</td><td>func_test3.py</td><td>29</td><td>闭包函数的使用：求解方程</td></tr>
+        <tr><td>36</td><td>func_test4.py</td><td>30</td><td>函数装饰器的定义</td></tr>
+
 
 
 

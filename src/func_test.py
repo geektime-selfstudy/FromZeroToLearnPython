@@ -93,3 +93,18 @@ for i in zip((1, 2, 3), (4, 5, 6)):
 a_dict = {"诸葛亮": 1, "张飞": 500, "刘备": 900}
 for i in zip(a_dict.values(), a_dict.keys()):
         print(i)
+
+
+def add():
+        num1 = 1
+        num2 = 2
+        return num1 + num2
+
+# 闭包
+def sum(a): # 外部函数
+        def add(b): # 内部函数
+                return a + b # 这里a就是外部函数的变量被内部函数引用,此时内部函数就被认为是闭包，叫做闭包
+        return add #这里的add其实可以看做是函数名称或者是函数的引用，而add()可以看做是函数的调用，也就是外部函数返回内部函数的引用
+
+print(type(add()))
+print(type(sum(1)) # 此时为一个函数
