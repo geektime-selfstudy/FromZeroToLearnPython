@@ -26,6 +26,11 @@
         <tr><td>37</td><td>class_test.py</td><td>35</td><td>类与实例</td></tr>
         <tr><td>38</td><td>class_test.py</td><td>36</td><td>如何增加类的属性和方法</td></tr>
         <tr><td>39</td><td>class_test_v2.py</td><td>37</td><td>类的继承</td></tr>
+        <tr><td>40</td><td>with_test.py</td><td>38</td><td>类的使用，自己定义with语句</td></tr>
+        <tr><td>41(看到第9分钟左右)</td><td>thread_test.py</td><td>39</td><td>多线程编程的定义</td></tr>        此时算上上面那个多线程视频还剩33个没有看的视频
+        <tr><td>42</td><td>pachong1.py</td><td>63</td><td>网页数据的采集与urllib库</td></tr>
+        <tr><td>43</td><td>pachong2.py</td><td>64</td><td>网页常见的两种请求方式GET与POST</td></tr>
+
 
 </tbody>
 </table>
