@@ -8,7 +8,7 @@ response = request.urlopen('http://httpbin.org/get', timeout=1)
 print(response.read().decode('utf-8'))
 
 # 采用POST请求，需要传送数据
-data = bytes(parse.urlencode({'word':'hello'}), encoding='utf-8')
+data = bytes(parse.urlencode({'word':'hello'}), encoding='utf-8') # bytes将内容变成网页的字节形式
 response2 = request.urlopen('http://httpbin.org/post', data=data)
 print(response2.read())
 

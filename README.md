@@ -30,6 +30,10 @@
         <tr><td>41(看到第9分钟左右)</td><td>thread_test.py</td><td>39</td><td>多线程编程的定义</td></tr>        此时算上上面那个多线程视频还剩33个没有看的视频
         <tr><td>42</td><td>pachong1.py</td><td>63</td><td>网页数据的采集与urllib库</td></tr>
         <tr><td>43</td><td>pachong2.py</td><td>64</td><td>网页常见的两种请求方式GET与POST</td></tr>
+        <tr><td>44</td><td>pachong3.py</td><td>65</td><td>http头部信息的模拟</td></tr>
+        <tr><td>45</td><td>pachong4.py</td><td>66</td><td>requests库(第三方库)的基本使用</td></tr>
+        <tr><td>46</td><td>func_test5.py</td><td>31</td><td>装饰器带参数的时候如何封装以及使用</td></tr>
+        <tr><td>47</td><td>没有书写代码</td><td>34</td><td>PEP8编码规范</td></tr>
 
 
 </tbody>
