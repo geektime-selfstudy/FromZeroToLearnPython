@@ -37,7 +37,5 @@
         <tr><td>45</td><td>pachong4.py</td><td>66</td><td>requests库(第三方库)的基本使用</td></tr>
         <tr><td>46</td><td>func_test5.py</td><td>31</td><td>装饰器带参数的时候如何封装以及使用</td></tr>
         <tr><td>47</td><td>没有书写代码</td><td>34</td><td>PEP8编码规范</td></tr>
-
-
 </tbody>
 </table>
